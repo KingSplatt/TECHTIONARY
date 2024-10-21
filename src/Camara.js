@@ -1,6 +1,7 @@
 import React, { useCallback, useRef, useState } from "react";
 import Webcam from "react-webcam";
 
+
 const Camara = () => {
     const webcamRef = useRef(null);
     const [facingMode, setFacingMode] = useState("user");
@@ -22,10 +23,10 @@ const Camara = () => {
                 audio={false}
                 ref={webcamRef}
                 screenshotFormat="image/jpeg"
-                width={400}
-                height={400}
                 videoConstraints={{ facingMode }}
+                className="webcam"
             />
+
             <button onClick={capture}>Capturar</button>
             <button onClick={toggleFacingMode}>Cambiar Cámara</button>
         </div>
