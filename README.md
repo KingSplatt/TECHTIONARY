@@ -37,3 +37,8 @@ npm install @tensorflow/tfjs
 ```bash
 npm install react-webcam
 ```
+
+## Como correr el programa
+Abre el proyecto en visual y en la terminal (ctr+ñ) escribe npm install
+Para iniciar: npm start
+No olvides poner las librerias ok gracias
