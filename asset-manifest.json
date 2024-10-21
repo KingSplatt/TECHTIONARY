@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Techtionary/static/css/main.f855e6bc.css",
-    "main.js": "/Techtionary/static/js/main.d38080ac.js",
+    "main.js": "/Techtionary/static/js/main.d17eb97c.js",
     "static/js/453.84d898b2.chunk.js": "/Techtionary/static/js/453.84d898b2.chunk.js",
     "static/media/logo.svg": "/Techtionary/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Techtionary/index.html",
     "main.f855e6bc.css.map": "/Techtionary/static/css/main.f855e6bc.css.map",
-    "main.d38080ac.js.map": "/Techtionary/static/js/main.d38080ac.js.map",
+    "main.d17eb97c.js.map": "/Techtionary/static/js/main.d17eb97c.js.map",
     "453.84d898b2.chunk.js.map": "/Techtionary/static/js/453.84d898b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.d38080ac.js"
+    "static/js/main.d17eb97c.js"
   ]
 }
